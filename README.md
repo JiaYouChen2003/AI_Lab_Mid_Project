@@ -5,7 +5,7 @@
     * Label
         * Version 0: [label_ver_0.json](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/blob/main/label_ver_0.json)
 
-* Add testing result
+* Testing result
     * Testing images: [test](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/test)
     * Demo result
         * Version 0: [result_ver_0](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/result_ver_0)
