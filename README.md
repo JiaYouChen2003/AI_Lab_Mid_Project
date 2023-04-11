@@ -5,9 +5,11 @@
     * Label
         * Version 0: [label_ver_0.json](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/blob/main/label_ver_0.json)
 
-* Testing result
+* Tarot testing data
     * Testing images: [test](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/test)
-    * Demo result
-        * Version 0: [result_ver_0](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/result_ver_0)
-    * Parameters (Every 2000 iteration)
-        * Version 0: [yolov3](https://drive.google.com/drive/folders/1SGLNG7v6cUEk-Vg1J3dInoE5dQisV2D4?usp=share_link)
+
+* Demo result
+    * Version 0: [result_ver_0](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/result_ver_0)
+
+* Parameters (Every 2000 iteration)
+    * Version 0: [yolov3](https://drive.google.com/drive/folders/1SGLNG7v6cUEk-Vg1J3dInoE5dQisV2D4?usp=share_link)
