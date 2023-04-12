@@ -10,8 +10,8 @@
     * Testing images: [test](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/test)
 
 * Demo result
-    * Version 0: [result_ver_0](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/result_ver_0)
-    * Version 1: [result_ver_1](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/result_ver_1)
+    * Version 0: [result_ver_0](https://drive.google.com/drive/folders/1g6QE5VcyqOrFM5HKEzxqlj68vcRl8q3j?usp=share_link)
+    * Version 1: [result_ver_1](https://drive.google.com/drive/folders/17TMprYuh2DJhv-xlS29298bXUG4V267P?usp=share_link)
 
 * Parameters (Every 4000 iteration)
     * Version 0: [yolov3-tarot_ver_0](https://drive.google.com/drive/folders/1SGLNG7v6cUEk-Vg1J3dInoE5dQisV2D4?usp=share_link)
