@@ -41,6 +41,7 @@ isFrame = 0
 
 # imgsz = (720, 960, 3)
 def capture():
+    print("start_capture")
     # cap=cv2.VideoCapture("udp://192.168.10.1:11111")
     cap=cv2.VideoCapture(0)
     global bbox
@@ -64,6 +65,7 @@ def capture():
 target = ["m00"]
 
 def control():
+    print("start_control")
     for i in range(0,len(_msg)):
         msg1 = _msg[i]
         sock.sendto(msg1.encode("utf-8"), tello_address)
@@ -107,6 +109,7 @@ def control():
                     time.sleep(5)
 
 def detect():
+    print("start_detect")
     global isFrame, bbox
     model = tarot_model()
     print("Model load successful!")
