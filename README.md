@@ -1,5 +1,5 @@
 # AI_Lab_Mid_Project
-This is a project that train a model to detect tarot card images by yolov3. The model will be put on a drone and we will write a rule based code to let the drone approach the tarot card. The goal is to touch as many tarot cards as possible in a given time.
+This is a project that train a model to detect tarot card images by yolov3. The model will be put on a drone and we will write a rule based code to let the drone approach the tarot card. The goal is to touch as many tarot cards as possible in a given time. \
 As a result, our model have a really high accuracy on detecting exist tarot cards. However, in the examination, we didn't manage to control our drone well and only touched three tarot out of seven(42.85%) within 15 minutes. Good news is that we changed the path of our drone a bit and touched all of the tarot in the second 15 minutes.
 
 * Tarot training data
