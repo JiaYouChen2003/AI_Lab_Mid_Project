@@ -1,6 +1,6 @@
 '''
 model = tarot_model()
-# box: xxyy confidence, label
+# box: xxyy, confidence, label
 box = model.run(img)
 '''
 import torch
