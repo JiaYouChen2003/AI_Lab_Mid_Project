@@ -14,7 +14,7 @@ class tarot_model():
     def __init__(self):
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.model = YOLOs["yolov3"](10).to(self.device)
-        ckpt = torch.load("./ckpt100000.pt")
+        ckpt = torch.load("./parameter.pt")
         self.model.load_state_dict(ckpt['model'])
         self.model.eval()
 

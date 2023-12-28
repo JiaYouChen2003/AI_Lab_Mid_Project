@@ -24,9 +24,18 @@ pip install -r requirements.txt
 ```
 
 ## How to run the project
+First download any parameter from the parameters below, rename it to "parameter.pt" and put it in the same folder with main.py
+
+### Parameters (Every 4000 iteration for version 0, 2000 iteration for version 1+)
+* Version 0: [yolov3-tarot_ver_0](https://drive.google.com/drive/folders/1SGLNG7v6cUEk-Vg1J3dInoE5dQisV2D4?usp=share_link)
+* Version 1: [yolov3-tarot_ver_1](https://drive.google.com/drive/folders/1-2c_ezBrYirREqDodJPvdFk4Kl-utPXZ?usp=share_link)
+* Version 2: [yolov3-tarot_ver_2](https://drive.google.com/drive/folders/1X7UxVG6G4uDgO6lCyYG2NalGLM4YUanX?usp=share_link)
+* Version 2.1: [yolov3-tarot_ver_2_1](https://drive.google.com/drive/folders/1UHJpzq_wa60444w-sEavWkIFUyBoahmD?usp=share_link)
+
 ```bash
 conda python main.py
 ```
+
 ## Data
 * Tarot training data
     * Training images
@@ -48,9 +57,3 @@ conda python main.py
     * Version 1: [result_ver_1](https://drive.google.com/drive/folders/17TMprYuh2DJhv-xlS29298bXUG4V267P?usp=share_link)
     * Version 2: [result_ver_2](https://drive.google.com/drive/folders/1WFDcuwVjz-ZllDl45lkpUicRNYy1wcI2?usp=share_link)
     * Version 2.1: [result_ver_2_1](https://drive.google.com/drive/folders/1VtJWozpOOfCzkSotBhqxIrJTttQ1iLpS?usp=share_link)
-
-* Parameters (Every 4000 iteration for version 0, 2000 iteration for version 1+)
-    * Version 0: [yolov3-tarot_ver_0](https://drive.google.com/drive/folders/1SGLNG7v6cUEk-Vg1J3dInoE5dQisV2D4?usp=share_link)
-    * Version 1: [yolov3-tarot_ver_1](https://drive.google.com/drive/folders/1-2c_ezBrYirREqDodJPvdFk4Kl-utPXZ?usp=share_link)
-    * Version 2: [yolov3-tarot_ver_2](https://drive.google.com/drive/folders/1X7UxVG6G4uDgO6lCyYG2NalGLM4YUanX?usp=share_link)
-    * Version 2.1: [yolov3-tarot_ver_2_1](https://drive.google.com/drive/folders/1UHJpzq_wa60444w-sEavWkIFUyBoahmD?usp=share_link)
