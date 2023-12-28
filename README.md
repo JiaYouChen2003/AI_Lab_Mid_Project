@@ -25,13 +25,13 @@ pip install -r requirements.txt
 
 ## How to run the project
 First download any parameter from the parameters below, rename it to "parameter.pt" and put it in the same folder with main.py
+* Parameters (Every 4000 iteration for version 0, 2000 iteration for version 1+)
+    * Version 0: [yolov3-tarot_ver_0](https://drive.google.com/drive/folders/1SGLNG7v6cUEk-Vg1J3dInoE5dQisV2D4?usp=share_link)
+    * Version 1: [yolov3-tarot_ver_1](https://drive.google.com/drive/folders/1-2c_ezBrYirREqDodJPvdFk4Kl-utPXZ?usp=share_link)
+    * Version 2: [yolov3-tarot_ver_2](https://drive.google.com/drive/folders/1X7UxVG6G4uDgO6lCyYG2NalGLM4YUanX?usp=share_link)
+    * Version 2.1: [yolov3-tarot_ver_2_1](https://drive.google.com/drive/folders/1UHJpzq_wa60444w-sEavWkIFUyBoahmD?usp=share_link)
 
-### Parameters (Every 4000 iteration for version 0, 2000 iteration for version 1+)
-* Version 0: [yolov3-tarot_ver_0](https://drive.google.com/drive/folders/1SGLNG7v6cUEk-Vg1J3dInoE5dQisV2D4?usp=share_link)
-* Version 1: [yolov3-tarot_ver_1](https://drive.google.com/drive/folders/1-2c_ezBrYirREqDodJPvdFk4Kl-utPXZ?usp=share_link)
-* Version 2: [yolov3-tarot_ver_2](https://drive.google.com/drive/folders/1X7UxVG6G4uDgO6lCyYG2NalGLM4YUanX?usp=share_link)
-* Version 2.1: [yolov3-tarot_ver_2_1](https://drive.google.com/drive/folders/1UHJpzq_wa60444w-sEavWkIFUyBoahmD?usp=share_link)
-
+Then, execute the main function. 
 ```bash
 conda python main.py
 ```
@@ -47,7 +47,6 @@ conda python main.py
         * Version 1: [label_ver_1.json](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/blob/main/label_ver_1.json)
         * Version 2: [label_ver_2.json](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/blob/main/label_ver_2.json)
         * Version 2.1: [label_ver_2_1.json](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/blob/main/label_ver_2_1.json)
-
 * Tarot testing data
     * Testing images: [test](https://github.com/JiaYouChen2003/AI_Lab_Mid_Project/tree/main/test)
 
