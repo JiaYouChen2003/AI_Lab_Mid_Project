@@ -37,6 +37,7 @@ conda python main.py
 ```
 
 ## Data
+If you want to train the yolov3 yourself or use another model, these data are made by our team. Feel free to use them on any academic purpose. In case for a business purpose, please contact us by email "justin041510@gmail.com".
 * Tarot training data
     * Training images
         * Version 0, 1: [images](https://drive.google.com/drive/folders/1BFJMue5FtOIt0e_bLsHMeyu8z_tA4O0I?usp=share_link)
